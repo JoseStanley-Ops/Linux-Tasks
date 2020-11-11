@@ -23,6 +23,9 @@ Task-11: Configure pc2 as DNS Server, Install using “BIND” package, Optional
 Task-12: Check whether the BaseOS, VM’s can be remote accessed from other PC, mobile using SSH, VNC.
 Task-13: Configure PC1 as Web Server and File Server
 Share File’s using File Server and check whether from client you are able to upload and download files
+                      
+                      
+                      
                       For FTP: Configure vsftpd/ sftp  Jailed if possible, Access via Filezilla
                       For Web server: Configure apache → Access using browser
 Task-14: Configure pc4 as Nagios/Zabbix server, Using Nagios/Zabbix server, monitor other PC’, monitor the load, CPU, Memory utilization of OS, web server, DNS Server and other PC’s.
