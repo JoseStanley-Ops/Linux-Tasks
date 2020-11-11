@@ -1,9 +1,7 @@
 
 # Linux-Tasks
-Linux Projects/Tasks
-
-Task-1: Dual Booting Linux(RHEL or CentOS) and Windows Server with ( GPT and MBR ),Installing Linux with minimal (no GUI).
-Task-2: Installation: minimal, Installation using GPT
+Linux Projects/Tasks    Task-1: Dual Booting Linux(RHEL or CentOS) and Windows Server with ( GPT and MBR ),Installing Linux with minimal (no GUI).
+            Task-2: Installation: minimal, Installation using GPT
 Task-3: Configure your base machine as “Yum Server".
 Task-4: Install GNOME
 Task-5: Install KVM / Virtual Machine Manager
